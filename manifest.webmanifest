@@ -1,0 +1,17 @@
+{
+  "name": "Alveon B2B – Desarrollo de negocios",
+  "short_name": "Alveon B2B",
+  "description": "Seguimiento comercial de obras sociales, hospitales, sanatorios, clínicas y otros prestadores de Alveon.",
+  "id": "./index.html?app=b2b",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a1f63",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
